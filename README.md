@@ -1,6 +1,6 @@
 # txuproot
 # Run ubuntu in termux with proot-distro
-# Use folowing commands 
+# Use folowing commands
 
 pkg install proot-distro
 proot-distro install ubuntu-20.04
