@@ -1,2 +1,3 @@
 # txuproot
-termux ubuntu with proot 
+Run ubuntu in termux with proot-distro
+
